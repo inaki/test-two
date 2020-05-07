@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/inaki/test-two/compare/v2.0.0...v2.0.1) (2020-05-07)
+
+
+### Docs
+
+* adding changelog ([93861bb](https://github.com/inaki/test-two/commit/93861bbbe5ee46e4e229e8117257ccd837889436))
+
+
+### Styling
+
+* **main.css:** adding reset styles ([ea5d6ed](https://github.com/inaki/test-two/commit/ea5d6ed99bd2b0b09df9e77fdf4c24ab49deba3f))
+
 ## 2.0.0 (2020-05-07)
 
 
