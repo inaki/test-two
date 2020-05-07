@@ -1,5 +1,4 @@
 
-// .versionrc
 {
   "types": [
     {"type": "chore", "section":"Others", "hidden": false},
