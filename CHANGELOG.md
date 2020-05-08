@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.3](https://github.com/inaki/test-two/compare/v2.0.2...v2.0.3) (2020-05-08)
+
+
+### Docs
+
+* **docs:** just change some text ([aa1fa69](https://github.com/inaki/test-two/commit/aa1fa6922fb5026adcdd3f867591a0d79ae635de))
+
 ### [2.0.2](https://github.com/inaki/test-two/compare/v2.0.1...v2.0.2) (2020-05-07)
 
 
